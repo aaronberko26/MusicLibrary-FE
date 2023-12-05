@@ -17,3 +17,6 @@ In your terminal run the command npm install
 ## Start the project
 
 Before you start the project make sure the backend (MusicLibrary-BE) is up and running. Now you can run the command npm start to start the project
+
+## Link to MusicLibrary-BE
+https://github.com/aaronberko26/MusicLibrary
